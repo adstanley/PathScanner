@@ -111,14 +111,6 @@ python -m pathscanner /path/to/directory --python  # Show only Python files
 - `find_python_files(directory, recursive)`: Find Python files
 - `find_text_files(directory, recursive)`: Find text files
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/awesome-feature`)
-3. Commit your changes (`git commit -m 'Add awesome feature'`)
-4. Push to the branch (`git push origin feature/awesome-feature`)
-5. Open a Pull Request
-
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
